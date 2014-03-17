@@ -12,7 +12,7 @@ public class Main {
 	 */
 
 	public static void main(String[] args) {
-		System.out.println("Holl word!!");
+		System.out.println("Holl word 222!!");
 
 	}
 
